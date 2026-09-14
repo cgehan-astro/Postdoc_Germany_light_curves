@@ -1,0 +1,2 @@
+difrot period scale S-index nesting realisation
+1 25  0.0927 0.1702718719814108 0.0 1
