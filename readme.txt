@@ -10,7 +10,7 @@ This program takes as an input the file Kepler_bandpass_intensities.sav and prod
 
 ### 2. Periodogram.py: description in readme_Periodogram.txt
 
-This program takes as an input the files *.txt contained in ./Lightcurves_Aspot_15_MSH/*. as well as the file Example_PLATO_LC_PSLS_no_systematics_no_activity_no_granulation_P1_NSR_50_ppm.dat, and produces as outputs the plots Light_curve_1_spot_3_rotation_periods.pdf, Light_curve_1_spot_6_rotation_periods.pdf and Lomb_Scargle_periodogram.pdf.
+This program takes as inputs the files *.txt contained in ./Lightcurves_Aspot_15_MSH/*. as well as the file Example_PLATO_LC_PSLS_no_systematics_no_activity_no_granulation_P1_NSR_50_ppm.dat, and produces as outputs the plots Light_curve_1_spot_3_rotation_periods.pdf, Light_curve_1_spot_6_rotation_periods.pdf and Lomb_Scargle_periodogram.pdf. The input file Example_PLATO_LC_PSLS_no_systematics_no_activity_no_granulation_P1_NSR_50_ppm.dat is absent because it is too big to be uploaded on GitHub.
 
 
 ### Installation: with anaconda
